@@ -31,7 +31,7 @@ class Llanta:
     # comienza con uno mismo: self
     # pero puede ser otro nombre (mi)
     # parametros de entrada = default
-    #=====================================
+    #======================================
     def __init__(mi, radio=50,ancho=30,presion=1.5):
         #variable de la estructura completa Llanta
         Llanta.cuenta +=1
