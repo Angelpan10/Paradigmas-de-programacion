@@ -1,0 +1,52 @@
+
+MINI-INSTRUCTIVO DE UNIX
+============================================================
+  * ls/dir-> Comando para listar lo que hay en el directorio
+  * mkdir ______ ->hacer un directorio con su nombre
+          NOMBRE 
+  * cd ______ -> cambiar de directorio
+       NOMBRE 
+  * pwd -> directorio actual
+  * rm ______ -> borrar archivo
+       NOMBRE
+  *cd.. -> directorio anterior
+  *cd../../../ -> tres directorios anteriores
+
+MINI-INSTRUCTIVO DE VIRM
+============================================================
+  *cd _______ ->cambio de directorio
+NOMBRE
+  *vi ______ -> abrir nuevo archivo de texto
+NOMBRE
+  *i -> insertar
+  *[esc] -> salir del comando
+  *x -> borrar
+  *r -> remplazar
+  *:wq -> salir y guardar 
+  *:w -> guardar
+  *:q! -> salir y no guardar
+  *:$ -> ir a la ultima linea
+  *:n -> ir a la linea n
+  *o -> abre renglón abajo
+  *O -> abre renglón arriba
+  *dd -> borrar la línea donde estoy
+  */palabra -> buscar la palabra 
+  *n -> proxima aparición de la palabra
+
+MINI INSTRUCTIVO SUBIR A GITHUB
+================================================================
+1.- Entrar a su cuenta en github.com
+2.- Crear un repositorio 
+3.- Clonar el repositorio: git clone __________________
+                                    URL del repositorio
+4.-Subir al directorio del repositorio  y crear o copiar el archivo que vamos a subir a la nube.
+5.- Añadir: git add  _________
+                    archivo
+6.- Descripción: git commit-m "DESCRIPCION"
+7.- Subirlo: git push 
+
+8.- Ingresar el pasword ya con un token en github:
+
+*******password es un TOKEN de GitHub
+
+
